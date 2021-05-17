@@ -1,4 +1,5 @@
 #include "std.h"
+//ЭТА ПРОГРАММА УЧЕБНАЯ
 int main()
 {
 	//aboba
