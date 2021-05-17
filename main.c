@@ -2,6 +2,7 @@
 int main()
 {
 	//aboba
+	//aboba2
     int a,b;
     printf("VVEDI: ");
     scanf("%d%d", &a, &b);
