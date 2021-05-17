@@ -1,10 +1,10 @@
 #include "std.h"
-//–≠–¢–ê –ü–†–û–ì–†–ê–ú–ú–ê –£–ß–ï–ë–ù–ê–Ø
+//›“¿ œ–Œ√–¿ÃÃ¿ ”◊≈¡Õ¿ﬂ
 int main()
 {
 	//aboba
 	//aboba2
-	//aboba4
+	//aboba69
     int a,b;
     printf("VVEDI: ");
     scanf("%d%d", &a, &b);
