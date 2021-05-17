@@ -9,6 +9,5 @@ int main()
     printf("VVEDI: ");
     scanf("%d%d", &a, &b);
     printf("SUMMA: %d", a+b);
-	printf("RAZNOST: %d", a-b);
     return 0;
 }
