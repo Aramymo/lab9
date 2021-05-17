@@ -4,6 +4,7 @@ int main()
 {
 	//aboba
 	//aboba2
+	//aboba4
     int a,b;
     printf("VVEDI: ");
     scanf("%d%d", &a, &b);
